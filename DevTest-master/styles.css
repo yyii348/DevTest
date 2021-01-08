@@ -1,0 +1,203 @@
+.topsection{
+    top: 0;
+    width: 100%;
+    position: relative;
+    align-items: center;
+}
+
+#main-banner{
+    width: 100%;
+}
+
+.main_header{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-family: Quicksand;
+    font-size: 3vw;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+}
+
+.main_content{
+    position: absolute;
+    top: 40%;
+    left: 34%;
+    transform: translate(-50%, -50%);
+    width: 35%;
+    height: 10%;
+    font-family: Quicksand;
+    font-size: 1.4vw;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+}
+
+.main_learnmore{
+    position: absolute;
+    top: 55%;
+    left: 21.7%;
+    transform: translate(-50%, -50%);
+    width: 10%;
+    height: 10%;
+    font-family: Quicksand;
+    color: white;
+    font-weight: bold;
+}
+
+.main_learnmore button{
+    border: none;
+    border-radius: 4px;
+    background-color: #de6c17;
+    font-family: Quicksand;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
+}
+
+.middlesection{
+    width: 100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.middle_header{
+    font-family: Quicksand;
+    font-size: 3vw;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+}
+
+.middle_content{
+    font-family: Quicksand;
+    font-size: 1.4vw;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #5e6e66;
+    text-align: center;
+    margin: 0% 30% 0% 30%;
+}
+
+.middle_content p{
+    text-align: center;
+}
+
+.bottomsection{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.Dog_Walking{
+    width: 450px;
+    border-radius: 10px;
+    margin: 35px 15px 0 20px;
+    padding: 0 0 13.5px;
+    box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+    background-color: #ffffff;
+}
+
+.Dog_Boarding{
+    width: 450px;
+    border-radius: 10px;
+    margin: 35px 15px 0 60px;
+    padding: 0 0 13.5px;
+    box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+    background-color: #ffffff;
+}
+
+.Dog_Sitting{
+    width: 450px;
+    border-radius: 10px;
+    margin: 35px 15px 0 60px;
+    padding: 0 0 13.5px;
+    box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+    background-color: #ffffff;
+}
+
+.bottomsection img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.bottomsection p{
+    padding: 0px 20px 0px 20px;
+    font-family: Quicksand;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    font-weight: bold;
+    letter-spacing: normal;
+}
+
+.walking_header{
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: #36413c;
+}
+
+.boarding_header{
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: #36413c;
+}
+
+.sitting_header{
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: #36413c;
+}
+
+.walking_content{
+    font-size: 1vw;
+    font-weight: 500;
+    line-height: 1.44;
+    color: #5e6e66;
+}
+
+.boarding_content{
+    font-size: 1vw;
+    font-weight: 500;
+    line-height: 1.44;
+    color: #5e6e66;
+}
+
+.sitting_content{
+    font-size: 1vw;
+    font-weight: 500;
+    line-height: 1.44;
+    color: #5e6e66;
+}
+
+.walking_learnmore{
+    font-size: 1vw;
+    color: #de6c17;
+}
+
+.boarding_learnmore{
+    font-size: 1vw;
+    color: #de6c17;
+}
+
+.sitting_learnmore{
+    font-size: 1vw;
+    color: #de6c17;
+}
